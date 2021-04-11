@@ -1,5 +1,5 @@
 # Minecraft-Server-Skript
 It create a minecraft server with python
-# RUN THE SKRIPT
+# How to run
 Install python
 run server.py
